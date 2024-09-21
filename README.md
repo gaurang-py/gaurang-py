@@ -4,6 +4,24 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurang-py&label=Profile%20views&color=0e75b6&style=flat" alt="gaurang-py" /> </p>
 
 - 📫 How to reach me **patelgaurang5113@gmail.com**
+##  About Me:
+
+- 🌊 I'm from India.
+- 🔭 I’m currently working as a Full Stack Developer at [Ignition Nest Labs]([https://ignitionnestlabs.online/]).
+- 🌱 I’m currently contributing to Open Source.
+- 📑 My work portfolio is available at [Rohit's Portfolio](https://portfolio-rohit-singh.netlify.app/).
+- 💬 Ask me about Web Development, Mobile Development, Web3, Blockchain, Music or anything [here](https://topmate.io/rohit_singh22)
+- 📫 You can reach me out via [rohitsingh66604@gmail.com](mailto:rohitsingh66604@gmail.com)
+- 📫 How to find me:
+  - 🤙 [TopMate](https://topmate.io/rohit_singh22)
+  - 📧 [Mail](mailto:rohitsingh66604@gmail.com)
+  - 💼 [LinkedIn](https://www.linkedin.com/in/rohit-singh-7a8866248/)
+  - 📹 [Instagram](https://www.instagram.com/ohitzrohit/)
+  - [But Me Coffee](https://buymeacoffee.com/notoriousbrain)
+
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/its.rohit._singh/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rohit-singh-7a8866248/) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
