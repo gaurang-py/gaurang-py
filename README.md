@@ -8,7 +8,7 @@
 - 🌊 I'm from India.
 - 🔭 I’m currently working as a Full Stack Developer at [Ignition Nest Labs]([https://ignitionnestlabs.in/]).
 - 🌱 I’m currently contributing to Open Source.
-- 💬 Ask me about Backend Development,Web Development, Mobile Development, Music or anything [here](https://topmate.io/rohit_singh22)
+- 💬 Ask me about Backend Development,Web Development, Mobile Development, Music or anything [here]
 - 📫 You can reach me out via [patelgaurang5113@gmail.com](mailto:patelgaurang5113@gmail.com)
 - 📫 How to find me:
   - 📧 [Mail](mailto:patelgaurang5113@gmail.com)
